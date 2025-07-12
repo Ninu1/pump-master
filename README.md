@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PumpMaster – Conceptual Login and Dashboard Demo
 
 This project demonstrates a conceptual frontend implementation for a pump monitoring system using React. It includes a login page with route protection and a styled dashboard interface. While no real backend is used, it simulates authentication via hardcoded credentials and localStorage.
@@ -62,3 +63,7 @@ Notes
     No real authentication or API requests are performed.
 
     Focus is on demonstrating structure, route protection, and UI layout.
+=======
+# pump-master
+Frontend demo with JWT-style mock login and protected routes
+>>>>>>> c426b80391af4a5b71410fb1efc7bbe2e96f3403
